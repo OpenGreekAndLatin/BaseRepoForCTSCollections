@@ -1,4 +1,2 @@
-![Scaife-Ready](https://github.com/OpenGreekAndLatin/Latin/workflows/Scaife-Ready/badge.svg)
-
-# Latin
-XML files for Latin texts that do not fall under another collection
+# SampleRepo OGL
+Sample Repo that can be forked to make it easier to create Scaife-ready collections.
